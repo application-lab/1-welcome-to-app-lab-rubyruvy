@@ -1,22 +1,7 @@
-# Assignment 1: Welcome to App Lab
-Due Wednesday, September 11 
-
-# Instructions
-1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
-3. Open the the file `README.md`.
-4. Replace the **About Me** section with your own. I've included my own as a template.
-5. Delete the **Assignment** and **Instructions** sections.
-7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
- 
-Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
-
 # About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+Hi, My name is **Ruby** and I am from Seoul, South Korea. I spent my entire life in Korea, so Shanghai has been a first place that led me to explore other parts of the world. 
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
-
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
+I used not to be a coding person as my first experience with programming in my high school was truly terrifying. However, *Communications Lab* from the previous semester helped me entierly change my view and even triggered my interest in the field. *Application Lab*, therefore, is the one that I am most looking forward to and I am very excited to continue my studies on Javascript and to work on various projects throughout the semester. Along with this course, I am also taking *Introduction to Computer Programming*, which I can explore with Python. I have expected learning two languages at the same time would be challenging; yet I knew it would definitely pay off at the end. Furthermore, another reason is that I am still uncertain of which major I should pursue. I used to consider majoring in IMA or IMB, but since I have grown my interest in computer field more and could not figure out whether I really want to study business I tried to take courses that would offer me insights in both sectors. Hope I could grasp a good understanding of them and looking forward to getting amazing insights :)
 
 
 
